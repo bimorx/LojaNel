@@ -1,0 +1,43 @@
+body{
+	padding-top: 128px;
+}
+.v-margin-1{
+	margin-top: 32px;
+}
+.v-margin-2{
+	margin-top: 64px;
+}
+
+.panel-escuro{
+	border: none;
+}
+
+.panel-escuro .panel-body{
+	background-color: #222;
+}
+
+.panel-escuro .panel-heading{
+	background-color: #A02020;
+	color: white;
+}
+
+.borda-quadrada{
+	border-radius: 0px;
+}
+
+.ul-menu-lateral{
+	padding: 0;
+    list-style-type: none;
+	background-color: #222;
+}
+
+.ul-menu-lateral li{
+	margin-top: 6px;
+	border-top: solid 1px #444;
+	border-bottom: solid 1px #444;
+	padding: 4px;
+}
+
+.ul-menu-lateral a, .ul-menu-lateral span{
+	color: white;
+}
